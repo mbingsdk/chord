@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chord-dasar",
+    "title": "Mengenal Chord Dasar Gitar",
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Chord adalah kumpulan dari tiga atau lebih nada yang dimainkan bersamaan. Dalam gitar, chord dibentuk dengan menekan kombinasi senar dan fret."
+      },
+      {
+        "type": "quiz",
+        "question": "Chord apakah ini? [0,2,2,1,0,0]",
+        "options": ["C", "E", "Am", "G"],
+        "answer": "E"
+      },
+      {
+        "type": "paragraph",
+        "text": "Chord dasar yang sering digunakan antara lain C, D, E, F, G, A, dan B. Setiap chord punya bentuk major dan minor."
+      },
+      {
+        "type": "quiz",
+        "question": "Chord mana yang termasuk minor?",
+        "options": ["C", "G", "Am", "E7"],
+        "answer": "Am"
+      },
+      {
+        "type": "paragraph",
+        "text": "Berlatih chord dasar adalah langkah pertama untuk memainkan banyak lagu populer. Pastikan jari kamu menekan senar dengan kuat dan bersih."
+      }
+    ]
+  }
+]

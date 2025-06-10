@@ -1,10 +1,14 @@
-# React + Vite
+# Web Chord React + Vite Tailwindcss
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Project Iseng doang
 
-Currently, two official plugins are available:
+API chord lagu lupa dulu sniff dari APK apa,
+Dan kalau dipakai di web, kena Cors Block
+Jadi pake alternatif API proxy
+Kalau mau pakai API aslinya
+Ubah requestnya di:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react](https://github.com/mbingsdk/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 ## Expanding the ESLint configuration
